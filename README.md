@@ -52,3 +52,6 @@ equity-analysis/
 | ROE % | Rentabilidad sobre fondos propios |
 | Deuda/EBITDA | Nivel de endeudamiento relativo |
 | Market Cap | Capitalización bursátil total |
+
+
+<img width="1393" height="808" alt="image" src="https://github.com/user-attachments/assets/59be4f35-1628-4a0a-a48b-114f3725f24b" />
